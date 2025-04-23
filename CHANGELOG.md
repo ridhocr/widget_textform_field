@@ -1,3 +1,8 @@
+## 0.0.1+3
+
+- Renamed package to `widget_text_form_field`.
+- Fixed badge URL in `README.md`.
+
 ## 0.0.1+2
 
 - Renamed package to `widget_text_form_field`.
