@@ -1,7 +1,7 @@
 name: widget_text_form_field
 description: "Package TextFormField"
 version: 0.0.1
-homepage:
+homepage: https://github.com/ridhocr/widget_textform_field
 
 environment:
   sdk: ^3.5.3
