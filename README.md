@@ -1,6 +1,6 @@
 # custom_text_form_field
 
-[![pub package](https://img.shields.io/pub/v/custom_text_form_field.svg)](https://pub.dev/packages/custom_text_form_field)
+[![pub package](https://img.shields.io/pub/v/widget_text_form_field.svg)](https://pub.dev/packages/widget_text_form_field)
 
 A customizable `TextFormField` widget in Flutter with built-in support for validation, date/year pickers, and currency formatting.
 
@@ -20,7 +20,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  custom_text_form_field: ^0.0.1
+  custom_text_form_field: ^0.0.1+2
 ```
 
 Then run:
